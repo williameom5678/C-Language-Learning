@@ -1,7 +1,0 @@
-﻿  main.c
-F:\컴\C언어\프로젝트\Main\main.c(101,6): warning C4101: '_sum' :참조되지 않은 지역 변수입니다.
-F:\컴\C언어\프로젝트\Main\main.c(100,6): warning C4101: '_sst' :참조되지 않은 지역 변수입니다.
-F:\컴\C언어\프로젝트\Main\main.c(99,6): warning C4101: '_fst' :참조되지 않은 지역 변수입니다.
-F:\컴\C언어\프로젝트\Main\main.c(116,25): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
-F:\컴\C언어\프로젝트\Main\main.c(116,25): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
-  Main.vcxproj -> F:\컴\C언어\프로젝트\Main\Debug\Main.exe
